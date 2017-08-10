@@ -13,6 +13,8 @@
                 Margin="25" Background="DarkGray"
                 BorderBrush="White"
                 BorderThickness="2"/>
+        <Calendar HorizontalAlignment="Left" VerticalAlignment="Top"/>
+        <ComboBox HorizontalAlignment="Left" VerticalAlignment="Top" Width="120" Margin="194,10,0,0"/>
 
     </Grid>
 </Window>
